@@ -2,7 +2,7 @@
 
 This is the official repository for the SMIT (Saylani Mass IT Training) Student Portal. It's a modern web application designed to provide students with a centralized dashboard to manage their courses, assignments, grades, and schedules.
 
-![SMIT Portal Dashboard](https://i.imgur.com/gKj3V03.png)
+![SMIT Portal Dashboard](./docs/dashboard-screenshot.png)
 *(Feel free to replace this link with a screenshot you upload directly to your repository)*
 
 ---
